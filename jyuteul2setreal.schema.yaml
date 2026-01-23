@@ -97,7 +97,7 @@ speller:
     - derive/p/jl/
     - derive/o/kl/
     
-    - abbrev/^([a-zQWERTP]).+$/$1/      # 首字母簡拼
+    - abbrev/^([a-zQWERTOP]).+$/$1/      # 首字母簡拼
     
     
     
@@ -125,7 +125,7 @@ translator:
   comment_format:
 #    - "xlit|abcdefghijklmnopqrstuvwxyz|ABCDEFGHIJKLMNOPQRSTUVWXYZ|"
     #- "xlit|abcdefghijklmnopqrstuvwxyzQWERTOP |ㅁㅠㅊㅇㄷㄹㅎㅗㅑㅓㅏㅣㅡㅜㅐㅔㅂㄱㄴㅅㅕㅍㅈㅌㅛㅋㅃㅉㄸㄲㅆㅒㅖ·|"
-     - xform/(Qle)([1-6])/삗$2/
+    - xform/(Qle)([1-6])/삗$2/
     - xform/(Qkr)([1-6])/빡$2/
     - xform/(Qks)([1-6])/빤$2/
     - xform/(Qke)([1-6])/빧$2/
