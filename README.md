@@ -1,4 +1,4 @@
-# rime-jyuteul2set
+# RIME 諺文粵語方案 rime-jyuteul2set
 基於rime平台使用諺文輸出粵文的輸入方案 Base Rime Use Hangul Output Cantonese Scheme
 
 使用韓語諺文2set鍵盤方式輸出，形似三拼或四拼。方案非標準。參考來自於基於知乎用户[荷達-粵語諺文方案](https://www.zhihu.com/question/27563380/answer/123653538)。
