@@ -78,14 +78,14 @@ speller:
     - xform/(doeng)([1-6])/댱$2/
     - xform/(kwaang)([1-6])/땅$2/
     - xform/(gwaang)([1-6])/깡$2/
-    - xform/(jaang)([1-6])/짱$2/
-    - xform/(gaang)([1-6])/강$2/
     - xform/(kwang)([1-6])/떵$2/
     - xform/(gwei)([1-6])/끠$2/
     - xform/(fit)([1-6])/삗$2/
     - xform/(ngo)([1-6])/오$2/
     - xform/(kwaang)([1-6])/땅$2/
     - xform/(ngaang)([1-6])/앙$2/
+    - xform/(jaang)([1-6])/짱$2/
+    - xform/(gaang)([1-6])/강$2/
     - xform/(baang)([1-6])/방$2/
     - xform/(caang)([1-6])/창$2/
     - xform/(coeng)([1-6])/챵$2/
@@ -1444,7 +1444,7 @@ speller:
     
     - derive/^d([\w]*)/$1/
     - derive/^Wb([\w]*)/b$1/
-    - abbrev/^([a-zQWERTP]).+$/$1/      # 首字母簡拼
+    - abbrev/^([a-zQWERTOP]).+$/$1/      # 首字母簡拼
     
     
 
@@ -1483,14 +1483,14 @@ translator:
     - xform/(doeng)([1-6])/댱$2/
     - xform/(kwaang)([1-6])/땅$2/
     - xform/(gwaang)([1-6])/깡$2/
-    - xform/(jaang)([1-6])/짱$2/
-    - xform/(gaang)([1-6])/강$2/
     - xform/(kwang)([1-6])/떵$2/
     - xform/(gwei)([1-6])/끠$2/
     - xform/(fit)([1-6])/삗$2/
     - xform/(ngo)([1-6])/오$2/
     - xform/(kwaang)([1-6])/땅$2/
     - xform/(ngaang)([1-6])/앙$2/
+    - xform/(jaang)([1-6])/짱$2/
+    - xform/(gaang)([1-6])/강$2/
     - xform/(baang)([1-6])/방$2/
     - xform/(caang)([1-6])/창$2/
     - xform/(coeng)([1-6])/챵$2/
