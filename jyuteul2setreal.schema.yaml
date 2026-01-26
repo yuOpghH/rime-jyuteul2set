@@ -125,6 +125,7 @@ translator:
   comment_format:
 #    - "xlit|abcdefghijklmnopqrstuvwxyz|ABCDEFGHIJKLMNOPQRSTUVWXYZ|"
     #- "xlit|abcdefghijklmnopqrstuvwxyzQWERTOP |ㅁㅠㅊㅇㄷㄹㅎㅗㅑㅓㅏㅣㅡㅜㅐㅔㅂㄱㄴㅅㅕㅍㅈㅌㅛㅋㅃㅉㄸㄲㅆㅒㅖ·|"
+    
     - xform/(Qle)([1-6])/삗$2/
     - xform/(Qkr)([1-6])/빡$2/
     - xform/(Qks)([1-6])/빤$2/
@@ -800,6 +801,7 @@ translator:
     - xform/(c)([1-6])/ㅊ$2/
     - xform/(t)([1-6])/ㅅ$2/
     - xform/(W)([1-6])/ㅉ$2/
+    - xform/ //
 
     
     
