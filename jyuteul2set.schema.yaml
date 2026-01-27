@@ -70,20 +70,13 @@ speller:
     
     #- xform/^j$/ㅓ/
     
-    - xform/(gweng)([1-6])/끙$2/
-    - xform/(keng)([1-6])/킁$2/
-    - xform/(meng)([1-6])/믕$2/
-    - xform/(neng)([1-6])/능$2/
-    - xform/(weng)([1-6])/씅$2/
-    - xform/(doeng)([1-6])/댱$2/
     - xform/(kwaang)([1-6])/땅$2/
     - xform/(gwaang)([1-6])/깡$2/
-    - xform/(kwang)([1-6])/떵$2/
-    - xform/(gwei)([1-6])/끠$2/
-    - xform/(fit)([1-6])/삗$2/
-    - xform/(ngo)([1-6])/오$2/
     - xform/(kwaang)([1-6])/땅$2/
     - xform/(ngaang)([1-6])/앙$2/
+    - xform/(gweng)([1-6])/끙$2/
+    - xform/(doeng)([1-6])/댱$2/
+    - xform/(kwang)([1-6])/떵$2/
     - xform/(jaang)([1-6])/짱$2/
     - xform/(gaang)([1-6])/강$2/
     - xform/(baang)([1-6])/방$2/
@@ -91,6 +84,7 @@ speller:
     - xform/(coeng)([1-6])/챵$2/
     - xform/(goeng)([1-6])/걍$2/
     - xform/(gwaai)([1-6])/깨$2/
+    - xform/(kwaak)([1-6])/딱$2/
     - xform/(gwaak)([1-6])/깍$2/
     - xform/(gwaan)([1-6])/깐$2/
     - xform/(gwaat)([1-6])/깓$2/
@@ -123,6 +117,14 @@ speller:
     - xform/(waang)([1-6])/쌍$2/
     - xform/(zaang)([1-6])/장$2/
     - xform/(zoeng)([1-6])/쟝$2/
+    - xform/(ngong)([1-6])/옹$2/
+    - xform/(ngoek)([1-6])/약$2/
+    - xform/(gwaak)([1-6])/깍$2/
+    - xform/(keng)([1-6])/킁$2/
+    - xform/(meng)([1-6])/믕$2/
+    - xform/(neng)([1-6])/능$2/
+    - xform/(weng)([1-6])/씅$2/
+    - xform/(gwei)([1-6])/끠$2/
     - xform/(aang)([1-6])/앙$2/
     - xform/(baai)([1-6])/배$2/
     - xform/(baak)([1-6])/박$2/
@@ -358,6 +360,27 @@ speller:
     - xform/(zung)([1-6])/중$2/
     - xform/(zyun)([1-6])/쥰$2/
     - xform/(zyut)([1-6])/쥳$2/
+    - xform/(coet)([1-6])/챧$2/
+    - xform/(fing)([1-6])/삥$2/
+    - xform/(gaam)([1-6])/감$2/
+    - xform/(gwat)([1-6])/떧$2/
+    - xform/(gwit)([1-6])/낃$2/
+    - xform/(jaap)([1-6])/짭$2/
+    - xform/(kaam)([1-6])/캄$2/
+    - xform/(ngoi)([1-6])/외$2/
+    - xform/(ngok)([1-6])/옥$2/
+    - xform/(ngon)([1-6])/온$2/
+    - xform/(ngot)([1-6])/옫$2/
+    - xform/(ngou)([1-6])/올$2/
+    - xform/(paat)([1-6])/팓$2/
+    - xform/(teot)([1-6])/켣$2/
+    - xform/(zoet)([1-6])/쟏$2/
+    - xform/(jaau)([1-6])/짤$2/
+    - xform/(noek)([1-6])/냑$2/
+    - xform/(gwak)([1-6])/꺽$2/
+    - xform/(kaan)([1-6])/칸$2/
+    - xform/(fit)([1-6])/삗$2/
+    - xform/(ngo)([1-6])/오$2/
     - xform/(aai)([1-6])/ㅐ$2/
     - xform/(aak)([1-6])/악$2/
     - xform/(aam)([1-6])/암$2/
@@ -627,6 +650,7 @@ speller:
     - xform/(tam)([1-6])/탐$2/
     - xform/(tan)([1-6])/턴$2/
     - xform/(tau)([1-6])/털$2/
+    - xform/(tek)([1-6])/큭$2/
     - xform/(tik)([1-6])/킥$2/
     - xform/(tim)([1-6])/팀$2/
     - xform/(tin)([1-6])/틴$2/
@@ -668,6 +692,33 @@ speller:
     - xform/(zou)([1-6])/졸$2/
     - xform/(zuk)([1-6])/죽$2/
     - xform/(zyu)([1-6])/쥬$2/
+    - xform/(eot)([1-6])/엳$2/
+    - xform/(fik)([1-6])/삑$2/
+    - xform/(gut)([1-6])/굳$2/
+    - xform/(gwi)([1-6])/끼$2/
+    - xform/(gep)([1-6])/급$2/
+    - xform/(kip)([1-6])/킵$2/
+    - xform/(loe)([1-6])/랴$2/
+    - xform/(nit)([1-6])/닏$2/
+    - xform/(soe)([1-6])/셔$2/
+    - xform/(tap)([1-6])/컵$2/
+    - xform/(wet)([1-6])/쯛$2/
+    - xform/(zem)([1-6])/즘$2/
+    - xform/(zep)([1-6])/즙$2/
+    - xform/(zoe)([1-6])/쟈$2/
+    - xform/(pet)([1-6])/픋$2/
+    - xform/(wak)([1-6])/썩$2/
+    - xform/(bon)([1-6])/본$2/
+    - xform/(kak)([1-6])/컥$2/
+    - xform/(gak)([1-6])/걱$2/
+    - xform/(kak)([1-6])/컥$2/
+    - xform/(keu)([1-6])/클$2/
+    - xform/(kep)([1-6])/큽$2/
+    - xform/(leu)([1-6])/를$2/
+    - xform/(mam)([1-6])/멈$2/
+    - xform/(nge)([1-6])/으$2/
+    - xform/(tet)([1-6])/큳$2/
+    - xform/(an)([1-6])/언$2/
     - xform/(aa)([1-6])/ㅏ$2/
     - xform/(ai)([1-6])/ㅔ$2/
     - xform/(ak)([1-6])/억$2/
@@ -706,7 +757,7 @@ speller:
     - xform/(ne)([1-6])/느$2/
     - xform/(ni)([1-6])/니$2/
     - xform/(no)([1-6])/노$2/
-    - xform/(oi)([1-6])/ㅚ$2/
+    - xform/(oi)([1-6])/외$2/
     - xform/(ok)([1-6])/옥$2/
     - xform/(on)([1-6])/온$2/
     - xform/(ou)([1-6])/올$2/
@@ -723,15 +774,28 @@ speller:
     - xform/(ze)([1-6])/즈$2/
     - xform/(zi)([1-6])/지$2/
     - xform/(zo)([1-6])/조$2/
-    - xform/(e)([1-6])/으$2/
-    - xform/(o)([1-6])/ㅗ$2/
-    - xform/(u)([1-6])/ㅜ$2/
-    - xform/(m)([1-6])/ㅁ$2/
+    - xform/(at)([1-6])/얻$2/
+    - xform/(om)([1-6])/옴$2/
+    - xform/(bn)([1-6])/ㅂㄴ$2/
+    - xform/(ga)([1-6])/거$2/
+    - xform/(gi)([1-6])/기$2/
+    - xform/(he)([1-6])/흐$2/
+    - xform/(hi)([1-6])/히$2/
+    - xform/(hm)([1-6])/ㅎㅁ$2/
+    - xform/(lu)([1-6])/루$2/
+    - xform/(we)([1-6])/쓰$2/
+    - xform/(wi)([1-6])/지$2/
     - xform/(ng)([1-6])/ㅇ$2/
+    - xform/(la)([1-6])/러$2/
+    - xform/(ma)([1-6])/머$2/
+    - xform/(ti)([1-6])/티$2/
     - xform/(a)([1-6])/ㅓ$2/
+    - xform/(e)([1-6])/ㅡ$2/
+    - xform/(u)([1-6])/ㅜ$2/
+    - xform/(i)([1-6])/ㅣ $2/
+    - xform/(o)([1-6])/ㅗ$2/
     - xform/(b)([1-6])/ㅂ$2/
     - xform/(p)([1-6])/ㅍ$2/
-    - xform/(m)([1-6])/ㅁ$2/
     - xform/(f)([1-6])/ㅃ$2/
     - xform/(d)([1-6])/ㄷ$2/
     - xform/(t)([1-6])/ㅌ$2/
@@ -745,28 +809,26 @@ speller:
     - xform/(c)([1-6])/ㅊ$2/
     - xform/(s)([1-6])/ㅅ$2/
     - xform/(j)([1-6])/ㅉ$2/
+    - xform/(m)([1-6])/ㅁ$2/
 
-    - xform/(끙)([1-6])/Rmd$2/
-    - xform/(킁)([1-6])/zmd$2/
-    - xform/(믕)([1-6])/amd$2/
-    - xform/(능)([1-6])/smd$2/
-    - xform/(씅)([1-6])/Tmd$2/
-    - xform/(댱)([1-6])/eid$2/
+    - xform/(ㅂㄴ)([1-6])/qs$2/
+    - xform/(ㅎㅁ)([1-6])/fa$2/
+    - xform/(ㅣ )([1-6])/l$2/
     - xform/(땅)([1-6])/Ekd$2/
     - xform/(깡)([1-6])/Rkd$2/
-    - xform/(짱)([1-6])/Wkd$2/
-    - xform/(강)([1-6])/rkd$2/
-    - xform/(떵)([1-6])/Ejd$2/
-    - xform/(끠)([1-6])/Rml$2/
-    - xform/(삗)([1-6])/Qle$2/
-    - xform/(오)([1-6])/dh$2/
     - xform/(땅)([1-6])/Ekd$2/
     - xform/(앙)([1-6])/dkd$2/
+    - xform/(끙)([1-6])/Rmd$2/
+    - xform/(댱)([1-6])/eid$2/
+    - xform/(떵)([1-6])/Ejd$2/
+    - xform/(짱)([1-6])/Wkd$2/
+    - xform/(강)([1-6])/rkd$2/
     - xform/(방)([1-6])/qkd$2/
     - xform/(창)([1-6])/ckd$2/
     - xform/(챵)([1-6])/cid$2/
     - xform/(걍)([1-6])/rid$2/
     - xform/(깨)([1-6])/Ro$2/
+    - xform/(딱)([1-6])/Ekr$2/
     - xform/(깍)([1-6])/Rkr$2/
     - xform/(깐)([1-6])/Rks$2/
     - xform/(깓)([1-6])/Rke$2/
@@ -799,6 +861,14 @@ speller:
     - xform/(쌍)([1-6])/Tkd$2/
     - xform/(장)([1-6])/wkd$2/
     - xform/(쟝)([1-6])/wid$2/
+    - xform/(옹)([1-6])/dhd$2/
+    - xform/(약)([1-6])/dir$2/
+    - xform/(깍)([1-6])/Rkr$2/
+    - xform/(킁)([1-6])/zmd$2/
+    - xform/(믕)([1-6])/amd$2/
+    - xform/(능)([1-6])/smd$2/
+    - xform/(씅)([1-6])/Tmd$2/
+    - xform/(끠)([1-6])/Rml$2/
     - xform/(앙)([1-6])/dkd$2/
     - xform/(배)([1-6])/qo$2/
     - xform/(박)([1-6])/qkr$2/
@@ -1034,6 +1104,27 @@ speller:
     - xform/(중)([1-6])/wnd$2/
     - xform/(쥰)([1-6])/wbs$2/
     - xform/(쥳)([1-6])/wbe$2/
+    - xform/(챧)([1-6])/cie$2/
+    - xform/(삥)([1-6])/Qld$2/
+    - xform/(감)([1-6])/rka$2/
+    - xform/(떧)([1-6])/Eje$2/
+    - xform/(낃)([1-6])/Rle$2/
+    - xform/(짭)([1-6])/Wkq$2/
+    - xform/(캄)([1-6])/zka$2/
+    - xform/(외)([1-6])/dhl$2/
+    - xform/(옥)([1-6])/dhr$2/
+    - xform/(온)([1-6])/dhs$2/
+    - xform/(옫)([1-6])/dhe$2/
+    - xform/(올)([1-6])/dhf$2/
+    - xform/(팓)([1-6])/vke$2/
+    - xform/(켣)([1-6])/zue$2/
+    - xform/(쟏)([1-6])/wie$2/
+    - xform/(짤)([1-6])/Wkf$2/
+    - xform/(냑)([1-6])/sir$2/
+    - xform/(꺽)([1-6])/Rjr$2/
+    - xform/(칸)([1-6])/zks$2/
+    - xform/(삗)([1-6])/Qle$2/
+    - xform/(오)([1-6])/dh$2/
     - xform/(ㅐ)([1-6])/o$2/
     - xform/(악)([1-6])/dkr$2/
     - xform/(암)([1-6])/dka$2/
@@ -1104,7 +1195,7 @@ speller:
     - xform/(독)([1-6])/ehr$2/
     - xform/(돌)([1-6])/ehf$2/
     - xform/(둑)([1-6])/enr$2/
-    - xform/(빠)([1-6])/Qk$2/    
+    - xform/(빠)([1-6])/Qk$2/
     - xform/(뻬)([1-6])/Qp$2/
     - xform/(뻔)([1-6])/Qjs$2/
     - xform/(뻗)([1-6])/Qje$2/
@@ -1303,6 +1394,7 @@ speller:
     - xform/(탐)([1-6])/xka$2/
     - xform/(턴)([1-6])/xjs$2/
     - xform/(털)([1-6])/xjf$2/
+    - xform/(큭)([1-6])/zmr$2/
     - xform/(킥)([1-6])/zlr$2/
     - xform/(팀)([1-6])/xla$2/
     - xform/(틴)([1-6])/xls$2/
@@ -1344,6 +1436,33 @@ speller:
     - xform/(졸)([1-6])/whf$2/
     - xform/(죽)([1-6])/wnr$2/
     - xform/(쥬)([1-6])/wb$2/
+    - xform/(엳)([1-6])/due$2/
+    - xform/(삑)([1-6])/Qlr$2/
+    - xform/(굳)([1-6])/rne$2/
+    - xform/(끼)([1-6])/Rl$2/
+    - xform/(급)([1-6])/rmq$2/
+    - xform/(킵)([1-6])/zlq$2/
+    - xform/(랴)([1-6])/fi$2/
+    - xform/(닏)([1-6])/sle$2/
+    - xform/(셔)([1-6])/tu$2/
+    - xform/(컵)([1-6])/zjq$2/
+    - xform/(쯛)([1-6])/Wme$2/
+    - xform/(즘)([1-6])/wma$2/
+    - xform/(즙)([1-6])/wmq$2/
+    - xform/(쟈)([1-6])/wi$2/
+    - xform/(픋)([1-6])/vme$2/
+    - xform/(썩)([1-6])/Tjr$2/
+    - xform/(본)([1-6])/qhs$2/
+    - xform/(컥)([1-6])/zjr$2/
+    - xform/(걱)([1-6])/rjr$2/
+    - xform/(컥)([1-6])/zjr$2/
+    - xform/(클)([1-6])/zmf$2/
+    - xform/(큽)([1-6])/zmq$2/
+    - xform/(를)([1-6])/fmf$2/
+    - xform/(멈)([1-6])/aja$2/
+    - xform/(으)([1-6])/dm$2/
+    - xform/(큳)([1-6])/zme$2/
+    - xform/(언)([1-6])/djs$2/
     - xform/(ㅏ)([1-6])/k$2/
     - xform/(ㅔ)([1-6])/p$2/
     - xform/(억)([1-6])/djr$2/
@@ -1382,7 +1501,7 @@ speller:
     - xform/(느)([1-6])/sm$2/
     - xform/(니)([1-6])/sl$2/
     - xform/(노)([1-6])/sh$2/
-    - xform/(ㅚ)([1-6])/oi$2/
+    - xform/(외)([1-6])/dhl$2/
     - xform/(옥)([1-6])/dhr$2/
     - xform/(온)([1-6])/dhs$2/
     - xform/(올)([1-6])/dhf$2/
@@ -1399,16 +1518,26 @@ speller:
     - xform/(즈)([1-6])/wm$2/
     - xform/(지)([1-6])/wl$2/
     - xform/(조)([1-6])/wh$2/
-    - xform/(으)([1-6])/dm$2/
-    - xform/(ㅗ)([1-6])/h$2/
-    - xform/(ㅜ)([1-6])/n$2/
-    - xform/(ㅁ)([1-6])/a$2/
+    - xform/(얻)([1-6])/dje$2/
+    - xform/(옴)([1-6])/dha$2/
+    - xform/(거)([1-6])/rj$2/
+    - xform/(기)([1-6])/rl$2/
+    - xform/(흐)([1-6])/gm$2/
+    - xform/(히)([1-6])/gl$2/
+    - xform/(루)([1-6])/fn$2/
+    - xform/(쓰)([1-6])/Tm$2/
+    - xform/(지)([1-6])/wl$2/
     - xform/(ㅇ)([1-6])/d$2/
+    - xform/(러)([1-6])/fj$2/
+    - xform/(머)([1-6])/aj$2/
+    - xform/(티)([1-6])/xl$2/
     - xform/(ㅓ)([1-6])/j$2/
+    - xform/(ㅡ)([1-6])/m$2/
+    - xform/(ㅜ)([1-6])/n$2/
+    - xform/(ㅗ)([1-6])/h$2/
     - xform/(ㅂ)([1-6])/q$2/
     - xform/(ㅍ)([1-6])/v$2/
-    - xform/(ㅁ)([1-6])/a$2/
-    - xform/(ㅃ)([1-6])/Q$2/
+    - xform/(ㅃ)([1-6])/qq$2/
     - xform/(ㄷ)([1-6])/e$2/
     - xform/(ㅌ)([1-6])/x$2/
     - xform/(ㄴ)([1-6])/s$2/
@@ -1421,6 +1550,11 @@ speller:
     - xform/(ㅊ)([1-6])/c$2/
     - xform/(ㅅ)([1-6])/t$2/
     - xform/(ㅉ)([1-6])/W$2/
+    - xform/(ㅁ)([1-6])/a$2/
+
+
+
+
 
     - derive/[123456]//   
     
@@ -1453,9 +1587,10 @@ translator:
   prism: jyuteul2set
   spelling_hints: 20  # 將呢度改作 0，可以去除候選字後邊嘅粵拼提示
   always_show_comments: true
-  enable_user_dict: true
-  enable_sentence: true
-  enable_completion: true
+  enable_encoder: true #是否開啓自動造詞〔僅table_translator有效〕
+  encode_commit_history: true #是否對已上屛詞自動成詞〔僅table_translator有效〕
+  enable_user_dict: true #是否開啓用戶詞典〔用戶詞典記錄動態字詞頻、用戶詞〕
+  enable_sentence: true #是否開啓自動造句〕
   preedit_format:
 #    - "xlit|abcdefghijklmnopqrstuvwxyz|ABCDEFGHIJKLMNOPQRSTUVWXYZ|"
     #- "xlit|abcdefghijklmnopqrstuvwxyzQWERTOP |ㅁㅠㅊㅇㄷㄹㅎㅗㅑㅓㅏㅣㅡㅜㅐㅔㅂㄱㄴㅅㅕㅍㅈㅌㅛㅋㅃㅉㄸㄲㅆㅒㅖ·|"
@@ -1474,21 +1609,13 @@ translator:
 #    - "xlit|abcdefghijklmnopqrstuvwxyz|ABCDEFGHIJKLMNOPQRSTUVWXYZ|"
     #- "xlit|abcdefghijklmnopqrstuvwxyzQWERTOP |ㅁㅠㅊㅇㄷㄹㅎㅗㅑㅓㅏㅣㅡㅜㅐㅔㅂㄱㄴㅅㅕㅍㅈㅌㅛㅋㅃㅉㄸㄲㅆㅒㅖ·|"
 	
-
-    - xform/(gweng)([1-6])/끙$2/
-    - xform/(keng)([1-6])/킁$2/
-    - xform/(meng)([1-6])/믕$2/
-    - xform/(neng)([1-6])/능$2/
-    - xform/(weng)([1-6])/씅$2/
-    - xform/(doeng)([1-6])/댱$2/
     - xform/(kwaang)([1-6])/땅$2/
     - xform/(gwaang)([1-6])/깡$2/
-    - xform/(kwang)([1-6])/떵$2/
-    - xform/(gwei)([1-6])/끠$2/
-    - xform/(fit)([1-6])/삗$2/
-    - xform/(ngo)([1-6])/오$2/
     - xform/(kwaang)([1-6])/땅$2/
     - xform/(ngaang)([1-6])/앙$2/
+    - xform/(gweng)([1-6])/끙$2/
+    - xform/(doeng)([1-6])/댱$2/
+    - xform/(kwang)([1-6])/떵$2/
     - xform/(jaang)([1-6])/짱$2/
     - xform/(gaang)([1-6])/강$2/
     - xform/(baang)([1-6])/방$2/
@@ -1496,6 +1623,7 @@ translator:
     - xform/(coeng)([1-6])/챵$2/
     - xform/(goeng)([1-6])/걍$2/
     - xform/(gwaai)([1-6])/깨$2/
+    - xform/(kwaak)([1-6])/딱$2/
     - xform/(gwaak)([1-6])/깍$2/
     - xform/(gwaan)([1-6])/깐$2/
     - xform/(gwaat)([1-6])/깓$2/
@@ -1528,6 +1656,14 @@ translator:
     - xform/(waang)([1-6])/쌍$2/
     - xform/(zaang)([1-6])/장$2/
     - xform/(zoeng)([1-6])/쟝$2/
+    - xform/(ngong)([1-6])/옹$2/
+    - xform/(ngoek)([1-6])/약$2/
+    - xform/(gwaak)([1-6])/깍$2/
+    - xform/(keng)([1-6])/킁$2/
+    - xform/(meng)([1-6])/믕$2/
+    - xform/(neng)([1-6])/능$2/
+    - xform/(weng)([1-6])/씅$2/
+    - xform/(gwei)([1-6])/끠$2/
     - xform/(aang)([1-6])/앙$2/
     - xform/(baai)([1-6])/배$2/
     - xform/(baak)([1-6])/박$2/
@@ -1763,6 +1899,27 @@ translator:
     - xform/(zung)([1-6])/중$2/
     - xform/(zyun)([1-6])/쥰$2/
     - xform/(zyut)([1-6])/쥳$2/
+    - xform/(coet)([1-6])/챧$2/
+    - xform/(fing)([1-6])/삥$2/
+    - xform/(gaam)([1-6])/감$2/
+    - xform/(gwat)([1-6])/떧$2/
+    - xform/(gwit)([1-6])/낃$2/
+    - xform/(jaap)([1-6])/짭$2/
+    - xform/(kaam)([1-6])/캄$2/
+    - xform/(ngoi)([1-6])/외$2/
+    - xform/(ngok)([1-6])/옥$2/
+    - xform/(ngon)([1-6])/온$2/
+    - xform/(ngot)([1-6])/옫$2/
+    - xform/(ngou)([1-6])/올$2/
+    - xform/(paat)([1-6])/팓$2/
+    - xform/(teot)([1-6])/켣$2/
+    - xform/(zoet)([1-6])/쟏$2/
+    - xform/(jaau)([1-6])/짤$2/
+    - xform/(noek)([1-6])/냑$2/
+    - xform/(gwak)([1-6])/꺽$2/
+    - xform/(kaan)([1-6])/칸$2/
+    - xform/(fit)([1-6])/삗$2/
+    - xform/(ngo)([1-6])/오$2/
     - xform/(aai)([1-6])/ㅐ$2/
     - xform/(aak)([1-6])/악$2/
     - xform/(aam)([1-6])/암$2/
@@ -2032,6 +2189,7 @@ translator:
     - xform/(tam)([1-6])/탐$2/
     - xform/(tan)([1-6])/턴$2/
     - xform/(tau)([1-6])/털$2/
+    - xform/(tek)([1-6])/큭$2/
     - xform/(tik)([1-6])/킥$2/
     - xform/(tim)([1-6])/팀$2/
     - xform/(tin)([1-6])/틴$2/
@@ -2073,6 +2231,33 @@ translator:
     - xform/(zou)([1-6])/졸$2/
     - xform/(zuk)([1-6])/죽$2/
     - xform/(zyu)([1-6])/쥬$2/
+    - xform/(eot)([1-6])/엳$2/
+    - xform/(fik)([1-6])/삑$2/
+    - xform/(gut)([1-6])/굳$2/
+    - xform/(gwi)([1-6])/끼$2/
+    - xform/(gep)([1-6])/급$2/
+    - xform/(kip)([1-6])/킵$2/
+    - xform/(loe)([1-6])/랴$2/
+    - xform/(nit)([1-6])/닏$2/
+    - xform/(soe)([1-6])/셔$2/
+    - xform/(tap)([1-6])/컵$2/
+    - xform/(wet)([1-6])/쯛$2/
+    - xform/(zem)([1-6])/즘$2/
+    - xform/(zep)([1-6])/즙$2/
+    - xform/(zoe)([1-6])/쟈$2/
+    - xform/(pet)([1-6])/픋$2/
+    - xform/(wak)([1-6])/썩$2/
+    - xform/(bon)([1-6])/본$2/
+    - xform/(kak)([1-6])/컥$2/
+    - xform/(gak)([1-6])/걱$2/
+    - xform/(kak)([1-6])/컥$2/
+    - xform/(keu)([1-6])/클$2/
+    - xform/(kep)([1-6])/큽$2/
+    - xform/(leu)([1-6])/를$2/
+    - xform/(mam)([1-6])/멈$2/
+    - xform/(nge)([1-6])/으$2/
+    - xform/(tet)([1-6])/큳$2/
+    - xform/(an)([1-6])/언$2/
     - xform/(aa)([1-6])/ㅏ$2/
     - xform/(ai)([1-6])/ㅔ$2/
     - xform/(ak)([1-6])/억$2/
@@ -2111,7 +2296,7 @@ translator:
     - xform/(ne)([1-6])/느$2/
     - xform/(ni)([1-6])/니$2/
     - xform/(no)([1-6])/노$2/
-    - xform/(oi)([1-6])/ㅚ$2/
+    - xform/(oi)([1-6])/외$2/
     - xform/(ok)([1-6])/옥$2/
     - xform/(on)([1-6])/온$2/
     - xform/(ou)([1-6])/올$2/
@@ -2128,15 +2313,28 @@ translator:
     - xform/(ze)([1-6])/즈$2/
     - xform/(zi)([1-6])/지$2/
     - xform/(zo)([1-6])/조$2/
-    - xform/(e)([1-6])/으$2/
-    - xform/(o)([1-6])/ㅗ$2/
-    - xform/(u)([1-6])/ㅜ$2/
-    - xform/(m)([1-6])/ㅁ$2/
+    - xform/(at)([1-6])/얻$2/
+    - xform/(om)([1-6])/옴$2/
+    - xform/(bn)([1-6])/ㅂㄴ$2/
+    - xform/(ga)([1-6])/거$2/
+    - xform/(gi)([1-6])/기$2/
+    - xform/(he)([1-6])/흐$2/
+    - xform/(hi)([1-6])/히$2/
+    - xform/(hm)([1-6])/ㅎㅁ$2/
+    - xform/(lu)([1-6])/루$2/
+    - xform/(we)([1-6])/쓰$2/
+    - xform/(wi)([1-6])/지$2/
     - xform/(ng)([1-6])/ㅇ$2/
+    - xform/(la)([1-6])/러$2/
+    - xform/(ma)([1-6])/머$2/
+    - xform/(ti)([1-6])/티$2/
     - xform/(a)([1-6])/ㅓ$2/
+    - xform/(e)([1-6])/ㅡ$2/
+    - xform/(u)([1-6])/ㅜ$2/
+    - xform/(i)([1-6])/ㅣ $2/
+    - xform/(o)([1-6])/ㅗ$2/
     - xform/(b)([1-6])/ㅂ$2/
     - xform/(p)([1-6])/ㅍ$2/
-    - xform/(m)([1-6])/ㅁ$2/
     - xform/(f)([1-6])/ㅃ$2/
     - xform/(d)([1-6])/ㄷ$2/
     - xform/(t)([1-6])/ㅌ$2/
@@ -2150,6 +2348,12 @@ translator:
     - xform/(c)([1-6])/ㅊ$2/
     - xform/(s)([1-6])/ㅅ$2/
     - xform/(j)([1-6])/ㅉ$2/
+    - xform/(m)([1-6])/ㅁ$2/
+
+
+
+
+
     - xform/ //
 
     #- xform/1/⎽/                  # 陰平
