@@ -12,7 +12,7 @@
 [zhihu]:https://picx.zhimg.com/fefbf5c6c4393c07fdd5e5df7b0ebb03_r.jpg "碼表"
 ## 特性&使用
 
-分 `jyuteul2set(運算映射版)` 和 `jyuteul2setreal(真碼表版)`，前者可打常規粵語音節表內範圍，後者可混打諺文粵文。
+分 `jyuteul2set(運算映射版)` 和 `jyuteul2setreal(真碼表版)`，前者可打常規粵語音節表內範圍，後者可混打諺文粵文、及提供反查。
 
 反查使用，普通話 `w:` 兩分 `r:` 筆劃 `x:` 倉頡`v:` （注意有`:`號）。
 
